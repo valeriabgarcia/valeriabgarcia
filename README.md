@@ -2,8 +2,7 @@
 #### Atualmente trabalho com desenvolvimento de software embarcado, aplicações Android usando Java e programação back-end.
 #### Possuo conhecimentos em Programação Orientada a Objetos, Java, Android, APIs REST, Python, JavaScript, SQL, Git/GitHub/GitLab, Metodologias ágeis. 
 
-  
-##
+ 
 
 
   
