@@ -1,6 +1,6 @@
-### Olá! Sou a Valéria Garcia, Engenheira de Desenvolvimento! 
 #### Sou graduada em Engenharia Elétrica pela UTFPR e mestre pela UNICAMP. 
-#### Atualmente trabalho com Desenvolvimento de Sistemas Embarcados e Programação Back-End.
+#### Atualmente trabalho com desenvolvimento de software embarcado, aplicações Android usando Java e programação back-end.
+#### Possuo conhecimentos em Programação Orientada a Objetos, Java, Android, APIs REST, Python, JavaScript, SQL, Git/GitHub/GitLab, Metodologias ágeis. 
 
   
 ##
