@@ -1,6 +1,10 @@
-#### Sou graduada em Engenharia Elétrica pela UTFPR e mestre pela UNICAMP. 
-#### Atualmente trabalho com desenvolvimento de software embarcado, aplicações Android usando Java e programação back-end.
-#### Possuo conhecimentos em Programação Orientada a Objetos, Java, Android, APIs REST, documentação (Swagger), Python, JavaScript, banco de dados SQL, Git/GitHub/GitLab, Metodologias ágeis.  
+#### Graduada em Engenharia Elétrica pela UTFPR e mestre pela UNICAMP. 
+
+#### Desenvolvedora de software embarcado, aplicações Android usando Java e programação Back-End.
+
+#### Estudando Programação Orientada a Objetos, Java, Android, APIs REST, Maven, Gradle, documentação (Swagger), Python, JavaScript, banco de dados SQL, Git, GitHub, GitLab, AWS, Azure, Metodologias ágeis. 
+
+#### Mais de 6 anos de experiência em desenvolvimento de hardware, projetos de circuitos eletrônicos e layout de PCB. 
 
  
 
