@@ -2,7 +2,7 @@
 
 #### Desenvolvedora de software embarcado, aplicações Android usando Java e programação Back-End.
 
-#### Estudando Programação Orientada a Objetos, Java, Android, APIs REST, Maven, Gradle, documentação (Swagger), Python, JavaScript, banco de dados SQL, Git, GitHub, GitLab, AWS, Azure, Metodologias ágeis. 
+#### Estudando programação Orientada a Objetos, Java, Android, APIs REST, Maven, Gradle, documentação (Swagger), Python, JavaScript, banco de dados SQL e NoSQL, Git, GitHub, GitLab, AWS, Azure, Metodologias ágeis.
 
 #### Mais de 6 anos de experiência em desenvolvimento de hardware, projetos de circuitos eletrônicos e layout de PCB. 
 
